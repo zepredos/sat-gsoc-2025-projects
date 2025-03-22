@@ -1,0 +1,17 @@
+[
+    {
+        "completed": true,
+        "description": "Study Concurrency",
+        "id": 1
+    },
+    {
+        "completed": true,
+        "description": "Finish Projects",
+        "id": 2
+    },
+    {
+        "completed": false,
+        "description": "Submit Proposal",
+        "id": 3
+    }
+]
